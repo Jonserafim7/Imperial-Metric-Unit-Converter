@@ -20,7 +20,7 @@ The Metric/Imperial Unit Conversion tool is a web-based application that allows 
 
 ## Live Demo
 
-Check out the live demo of the application here: [Metric/Imperial Unit Conversion - Netlify](https://your-netlify-link.netlify.app/). This live demo provides you with a real-time experience of how the application operates.
+Check out the live demo of the application here: [Metric/Imperial Unit Conversion - Netlify](https://imperial-unit-converter-jonas.netlify.app/). This live demo provides you with a real-time experience of how the application operates.
 
 ## Usage
 
